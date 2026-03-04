@@ -1,4 +1,4 @@
-# A Comparative Study of Risk Field Representations for Interactive Driving in Mixed Traffic 
+# A Comparative Study of Risk Field Modeling for Interactive Driving in Mixed Traffic 
 ### (repo under continuous updating)
 
 This interim repo contains packages for modelling of state-of-the-art Interaction Fields with Social Value Orientation based on various BEV datasets
